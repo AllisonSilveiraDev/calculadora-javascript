@@ -1,3 +1,3 @@
 # calculadora-javascript
 
-![image](https://user-images.githubusercontent.com/104576340/171306853-a28b48cf-133b-4ce2-b3f3-af7197c0bd88.png)
+![image](https://user-images.githubusercontent.com/104576340/171306921-35dc847e-5c2c-419b-919c-9b33b7d0099b.png)
